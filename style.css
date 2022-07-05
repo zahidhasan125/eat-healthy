@@ -27,7 +27,9 @@ h2 {
 .sections {
     display: flex;
 }
-
+#first-section{
+    padding-bottom: 50px;
+}
 .half-width img {
     width: 100%;
 }
